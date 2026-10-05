@@ -1,0 +1,27 @@
+{
+  "trusted": [
+    {"name": "BBC", "domains": ["bbc.com", "bbc.co.uk"], "aliases": ["bbc", "bbc news"]},
+    {"name": "Reuters", "domains": ["reuters.com"], "aliases": ["reuters"]},
+    {"name": "The Hindu", "domains": ["thehindu.com"], "aliases": ["the hindu", "hindu"]},
+    {"name": "Indian Express", "domains": ["indianexpress.com"], "aliases": ["indian express", "the indian express"]},
+    {"name": "NDTV", "domains": ["ndtv.com"], "aliases": ["ndtv"]},
+    {"name": "Times of India", "domains": ["timesofindia.indiatimes.com", "indiatimes.com"], "aliases": ["times of india", "toi"]},
+    {"name": "Associated Press", "domains": ["apnews.com"], "aliases": ["associated press", "ap", "ap news"]},
+    {"name": "CNN", "domains": ["cnn.com"], "aliases": ["cnn"]},
+    {"name": "Al Jazeera", "domains": ["aljazeera.com"], "aliases": ["al jazeera"]},
+    {"name": "The Guardian", "domains": ["theguardian.com"], "aliases": ["the guardian", "guardian"]},
+    {"name": "Hindustan Times", "domains": ["hindustantimes.com"], "aliases": ["hindustan times", "ht"]},
+    {"name": "Economic Times", "domains": ["economictimes.indiatimes.com"], "aliases": ["economic times", "the economic times"]},
+    {"name": "ISRO", "domains": ["isro.gov.in"], "aliases": ["isro"]},
+    {"name": "World Health Organization", "domains": ["who.int"], "aliases": ["who", "world health organization"]},
+    {"name": "Press Information Bureau", "domains": ["pib.gov.in"], "aliases": ["pib", "press information bureau"]}
+  ],
+  "unreliable": [
+    {"name": "GlobalTruthDaily", "domains": [], "aliases": ["globaltruthdaily", "global truth daily"]},
+    {"name": "HealthSecretsDaily", "domains": [], "aliases": ["healthsecretsdaily", "health secrets daily"]},
+    {"name": "SecretWorldReport", "domains": [], "aliases": ["secretworldreport", "secret world report"]},
+    {"name": "TruthRevealed", "domains": [], "aliases": ["truthrevealed", "truth revealed"]},
+    {"name": "ViralNewsHub", "domains": [], "aliases": ["viralnewshub", "viral news hub"]},
+    {"name": "Unknown Blog", "domains": [], "aliases": ["unknown blog"]}
+  ]
+}
